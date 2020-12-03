@@ -1,0 +1,15 @@
+E:\class\18\Entity\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\class\18\Entity\bin\Debug\netcoreapp3.1\Entities.dll
+E:\class\18\Entity\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\class\18\Entity\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\class\18\Entity\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\class\18\Entity\obj\Debug\netcoreapp3.1\Entities.dll
+E:\class\18\Entity\obj\Debug\netcoreapp3.1\Entities.pdb
+E:\class\19\Entity\bin\Debug\netcoreapp3.1\Entities.deps.json
+E:\class\19\Entity\bin\Debug\netcoreapp3.1\Entities.dll
+E:\class\19\Entity\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\class\19\Entity\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache
+E:\class\19\Entity\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+E:\class\19\Entity\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+E:\class\19\Entity\obj\Debug\netcoreapp3.1\Entities.dll
+E:\class\19\Entity\obj\Debug\netcoreapp3.1\Entities.pdb

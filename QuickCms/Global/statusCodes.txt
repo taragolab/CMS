@@ -1,0 +1,9 @@
+﻿
+code					description	
+
+100						model state not valid
+200						success
+400						notfound
+500						server error
+501						logical error
+600						something is wrong, you should check the consol first andy you may have to debug the code
